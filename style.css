@@ -1,3 +1,4 @@
+
 p{
     color: blueviolet;
     margin: 0 auto;
@@ -5,4 +6,8 @@ p{
 }
 @media(max-width:768px){
     p{color: brown;}
+}
+img{
+    max-width:375px;
+    max-width:100%;
 }
